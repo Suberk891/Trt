@@ -9,3 +9,6 @@ https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=1200000,RESOLUTION=854x480,NAME="SD"
 https://tv-trt1.medya.trt.com.tr/master_480.m3u8
+
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="FHD"
+https://tv-trtgenc.medya.trt.com.tr/master.m3u8
